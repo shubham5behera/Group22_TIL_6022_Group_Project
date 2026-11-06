@@ -16,6 +16,10 @@ Most of the work was done together in a shared Google Drive folder (Google Colab
 versions were committed to this repository by the members who made them. The contribution of each member is described
 in section 2 of the report.
 
+**Use of AI**
+
+All group members used generative AI tools carefully and responsibly during this project. AI was used as a supporting tool for tasks such as discussing ideas, improving explanations, reviewing and debugging code, and improving the clarity of written text. All AI-assisted output was critically reviewed by the group, relevant calculations and sources were checked where possible, and the final methodological choices, code, analysis and conclusions remain the responsibility of the group members.
+
 **Repository contents**
 
 - [Group22_final_report.ipynb](Group22_final_report.ipynb) - the report: research question, data pipeline, results, discussion and conclusion
